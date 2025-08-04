@@ -1,0 +1,2 @@
+cd sd-webui-amd
+.\webui-user.bat
